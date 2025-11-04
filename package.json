@@ -15,10 +15,10 @@
   },
   "license": "MIT",
   "author": "manaofc",
-  "main": "manaofc-baileys/lib/index.js",
-  "types": "manaofc-baileys/lib/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
-    "manaofc-baileys/lib/**/*",
+    "lib/**/*",
     "WAProto/**/*"
   ],
   "scripts": {
